@@ -11,6 +11,12 @@ A Simple To-do-list web application using django.
 <br /><br /><br />
 
 
+## Visuals
+![visual1](https://github.com/raquib01/MyTodoList/imgs_for_readme/visual1.png)
+<br /><br />
+![visual2}(https://github.com/raquib01/MyTodoList/imgs_for_readme/visual2.png)
+<br /><br /><br />
+
 ## Dependencies:
 - Django Web-Framework 4.0.1
 
