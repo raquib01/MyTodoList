@@ -38,13 +38,11 @@ pip install django
 <br /><br /><br />
 
 
-## Future Work
+## Future Scope
 1. needs to add Multi-user functionality
 2. needs to Add Due Date per task
 3. About and Contact Page
 <br /><br /><br />
 
 
-## Project Status
-- working in Progress
-- pull requests are welcomed
+---***pull requests are welcomed***---
